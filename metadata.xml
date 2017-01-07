@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Treasureless NG</name>
+    <directory>treasureless_ng</directory>
+    <id>836484551</id>
+    <description>This mod makes it so when you skip the treasure room in a floor, you'll get a passive Afterbirth shop item in the next one.
+This is made as a sort of balance for the whole &quot;some treasure rooms have no item&quot; thing.
+This mod ignores whether the item you'll get has been unlocked or not, you'll get the item either way.
+This mod has a bug where it doesn't work if you reset the game in the first floor.
+
+There's an old version of this mod, called just Treasureless, that temporarily gives you There's Options if you reach the boss room before a treasure room.</description>
+    <version>0.0.6.1</version>
+    <visibility>Public</visibility>
+    <tag id="Tweaks"/>
+</metadata>
